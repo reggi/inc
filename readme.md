@@ -6,7 +6,7 @@ Consolidate Your Javascripts.
 
 Install with `npm` using:
 
-	npm install inc
+	npm install inc -g
 
 `incorporate.js` is a simple easy-to-use tool that makes working with client side javascripts much less painful. 
 
