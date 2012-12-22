@@ -1,0 +1,17 @@
+{
+  "name": "incorporate",
+  "version": "0.0.1",
+  "description": "consolidate all of your client side javascripts, locally",
+  "author": "Thomas Reggi",
+  "main": "bin/inc",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "node-minify": "~0.7.1"
+  },  
+  "bin": {
+    "inc": "bin/inc"
+  },
+  "preferGlobal": true
+}
