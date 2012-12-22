@@ -4,6 +4,10 @@
   "description": "consolidate all of your client side javascripts, locally",
   "author": "Thomas Reggi",
   "main": "bin/inc",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:reggi/inc.git"
+  },
   "engines": {
     "node": ">=0.8.0"
   },
@@ -15,3 +19,7 @@
   },
   "preferGlobal": true
 }
+
+
+
+
