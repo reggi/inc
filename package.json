@@ -1,6 +1,6 @@
 {
   "name": "inc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "consolidate all of your client side javascripts, locally",
   "author": "Thomas Reggi",
   "main": "bin/inc",
